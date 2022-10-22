@@ -1,0 +1,12 @@
+ Features:
+ 1. No Motion(palm)
+ 2. Cursor Movement(V-Gesture)
+ 3. Left Click(Index down Middle Finger up)
+ 4. Right Click(Index up Middle Finger Down)
+ 5. Scroll Up,Down(Left hand pinch move up,down)
+ 6. Multi-Selection(Right hand grab)
+ 7. Double click(Join Index,Middle fingers together)
+ 8. Drag-drop objects(Index,Middle fingers down)
+ 9. Zoom in-out(Join index,Middle fingers)
+ 10. Brightness Control(Right Hand pinch UP,Down)
+ 11. Sound Control(Right Hand pinch Slide left,right)
